@@ -1,5 +1,4 @@
-// 8 Channel Transmitter & Trims | 8 Kanal Verici ve Trimler
-
+// 8 Channel Transmitter & Trims 
   #include <SPI.h>
   #include <nRF24L01.h>
   #include <RF24.h>
